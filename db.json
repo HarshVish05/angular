@@ -1,0 +1,28 @@
+{
+    "tasks":[
+        {
+            "id":1,
+            "task":"Cricket",
+            "time":"5:00 A.M",
+            "reminder":true
+        },
+        {
+            "id":2,
+            "task":"Breakfast",
+            "time":"8:00 A.M",
+            "reminder":true
+        },
+        {
+            "id":1,
+            "task":"Training",
+            "time":"9:00 A.M",
+            "reminder":true
+        },
+        {
+            "id":1,
+            "task":"Lunch",
+            "time":"1:00 P.M",
+            "reminder":true
+        }
+    ]
+}
